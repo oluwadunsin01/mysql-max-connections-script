@@ -1,5 +1,6 @@
 # mysql-max-connections-script
 **An assignment given to me during my internship**
+
 What's This Script For?
 
 This simple Bash script helps you increase the maximum number of connections in MySQL to 50,000. It waits 30 seconds before running to make sure MySQL has fully started, then applies the new setting.
