@@ -1,0 +1,1 @@
+# mysql-max-connections-script
